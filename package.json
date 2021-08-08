@@ -1,0 +1,22 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^13.0.0-dev.t1627831263.774f5b7",
+    "discord.js-akinator": "^2.1.0",
+    "hex-check": "^1.0.0",
+    "hex-to-rgb": "^1.0.1",
+    "hex-to-rgb-string": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "webdict": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
